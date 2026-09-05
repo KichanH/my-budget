@@ -1,0 +1,15 @@
+{
+  "name": "내 가계부",
+  "short_name": "가계부",
+  "description": "지출·수입 기록, 반복결제 자동관리, 카테고리별 예산 관리",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F1EB",
+  "theme_color": "#22252A",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
